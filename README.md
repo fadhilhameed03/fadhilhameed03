@@ -1,51 +1,52 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Whoami+%3D+Fadhil;Offensive+Security+%7C+Red+Team;Kerala+Police+CyberDome+%7C+SOC%2FNOC;CRTA+%7C+CRT-ID+Certified" alt="Typing SVG" />
+# Hi there, I'm Fadhil
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:000000&height=200&section=header&text=root@fadhil:~%23&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=38" width="100%"/>
+`PROFILE VIEWS` · `TryHackMe: MASTER` · `Focus: Offensive Security`
 
 </div>
 
-## `> whoami`
+## 👤 About Me
 
-```bash
-$ cat identity.txt
-────────────────────────────────────────
-Name       : Fadhil
-Role       : Offensive Security | Red Team
-Past       : Cyber Infrastructure Analyst @ Kerala Police CyberDome
-Focus      : SOC/NOC, DFIR, Penetration Testing, Red Teaming
-Status     : Actively hunting for Red Team / SOC roles
-────────────────────────────────────────
+```python
+class Fadhil:
+    name   = "Fadhil"
+    focus  = "Offensive Security | SOC/DFIR"
+
+    stack = [
+        "Penetration Testing",
+        "Red Team Infrastructure",
+        "SOC / NOC Operations",
+        "SIEM & Threat Detection",
+        "DFIR",
+    ]
+
+    certifications = [
+        "CRTA  - Certified Red Team Analyst",
+        "CRT-ID - Certified Red Team Infra Dev",
+    ]
+
+    fun_fact = "I break things legally - then patch them better 🔒"
+
+    def motto(self):
+        return "Hack. Detect. Defend. Repeat."
 ```
 
-## `> certifications --list`
+## 🛠️ Tech Arsenal
 
-<div align="center">
+**Penetration Testing & Offensive Tools**
+`Nmap` `Burp Suite` `Metasploit` `Wireshark` `BloodHound` `Mimikatz`
 
-![CRTA](https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![CRT-ID](https://img.shields.io/badge/CRT--ID-Certified%20Red%20Team%20Infra%20Dev-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+**SOC / SIEM & Monitoring**
+`Wazuh` `Splunk`
 
-</div>
+**Networking & Infra**
+`Proxmox` `Active Directory` `pfSense` `TCP/IP` `DNS`
 
-## `> ctf --stats`
+**Scripting & OS**
+`Python` `Bash` `Kali Linux` `Windows Server`
 
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-MASTER%20Rank-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xB)
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit%2033%2F33-FF0000?style=for-the-badge&logo=linux&logoColor=white)](#)
-
-| Platform | Handle | Status |
-|---|---|---|
-| TryHackMe | `0xB` | MASTER rank |
-| OverTheWire | Bandit | All 33 levels cleared |
-| RAKSHA CTF | Kerala Police CyberDome | Participant |
-
-</div>
-
-## `> git log --stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -56,31 +57,37 @@ Status     : Actively hunting for Red Team / SOC roles
 
 </div>
 
-## `> tools --arsenal`
+## 💼 Work Experience
+
+- **Cyber Infrastructure Analyst** — Kerala Police CyberDome | Dec 2025 – Mar 2026 | SOC/NOC Operations
+- **Security Intern (PDPA Compliance)** — DCI Innovation PTE LTD | May 2025 – Jun 2025
+- **Intern** — ODS2 FZ LLC
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **NETLAB Home Lab** | Proxmox · Active Directory · SOC Tooling | Physical cyber range built on Proxmox for SOC and Active Directory attack/defense practice |
+| **Wazuh SIEM Dashboard** | Wazuh · Debian · Azure | Customized Wazuh SIEM dashboard deployed and tuned on an Azure cloud server |
+| **RAKSHA CTF Recon** | Nmap · HAProxy · CTFd | Infrastructure recon on the Kerala Police CyberDome RAKSHA CTF platform, identifying the CTFd/HAProxy/Gunicorn stack, documented in a formal report |
+
+## 🏅 Achievements
+
+| Achievement | Details |
+|---|---|
+| 🏆 TryHackMe | MASTER rank |
+| 🐛 OverTheWire Bandit | All 33 levels cleared |
+| 🚩 RAKSHA CTF | Participant, Kerala Police CyberDome |
+
+## 📜 Certifications
+
+| Certificate | Issuer | Status |
+|---|---|---|
+| CRTA — Certified Red Team Analyst | CyberWarFare Labs | ✅ Completed |
+| CRT-ID — Certified Red Team Infra Dev | CyberWarFare Labs | ✅ Completed |
 
 <div align="center">
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FF0000)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FF0000)
-![Wazuh](https://img.shields.io/badge/Wazuh-1A2332?style=for-the-badge&logo=wazuh&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+🛡️ **Hack. Detect. Defend. Repeat.** | Thanks
 
 </div>
-
-## `> connect --remote`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-fadhilhameed2004%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhilhameed2004@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0xB-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xB)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a0000&height=100&section=footer" width="100%"/>
