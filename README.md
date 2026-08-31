@@ -46,14 +46,11 @@ class Fadhil:
 **Scripting & OS**
 `Python` `Bash` `Kali Linux` `Windows Server`
 
-## 📊 GitHub Stats
+## 🎯 TryHackMe
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fadhilhameed03&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=CCCCCC&bg_color=0D0000"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilhameed03&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=FF0000&text_color=CCCCCC&bg_color=0D0000"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilhameed03&theme=github-dark-blue&hide_border=true&background=0D0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
+[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3008887)](https://tryhackme.com/p/0xB)
 
 </div>
 
