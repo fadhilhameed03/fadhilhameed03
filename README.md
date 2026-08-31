@@ -15,7 +15,6 @@ $ cat identity.txt
 ────────────────────────────────────────
 Name       : Fadhil
 Role       : Offensive Security | Red Team
-Employer   : Gro Innovative
 Past       : Cyber Infrastructure Analyst @ Kerala Police CyberDome
 Focus      : SOC/NOC, DFIR, Penetration Testing, Red Teaming
 Status     : Actively hunting for Red Team / SOC roles
