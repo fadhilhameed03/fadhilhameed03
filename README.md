@@ -2,7 +2,7 @@
 
 # Hi there, I'm Fadhil
 
-`PROFILE VIEWS` · `TryHackMe: MASTER` · `Focus: Offensive Security`
+`PROFILE VIEWS` · `TryHackMe: GURU` · `Focus: Offensive Security`
 
 </div>
 
@@ -11,7 +11,7 @@
 ```python
 class Fadhil:
     name   = "Fadhil"
-    focus  = "Offensive Security | SOC/DFIR"
+    focus  = "Offensive Security"
 
     stack = [
         "Penetration Testing",
